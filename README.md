@@ -13,3 +13,10 @@ S - engine slowdowns <br />
 R - toggle ray render <br />
 H - respawn cars <br />
 G - add 180 degrees when spawning <br />
+
+
+
+
+
+
+![alt text](https://github.com/UmaltIbragimov/AI-car-game-Java-/blob/main/Screen_1.png?raw=true)
