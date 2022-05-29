@@ -1,0 +1,134 @@
+{
+  "activationFunctionFactory": {
+    "activationFunctionMap": {
+      "TANH": {
+        "type": "basicneuralnetwork.activationfunctions.TanhActivationFunction",
+        "recognition_number/data": {}
+      },
+      "RELU": {
+        "type": "basicneuralnetwork.activationfunctions.ReLuActivationFunction",
+        "recognition_number/data": {}
+      },
+      "SIGMOID": {
+        "type": "basicneuralnetwork.activationfunctions.SigmoidActivationFunction",
+        "recognition_number/data": {}
+      }
+    }
+  },
+  "random": {
+    "seed": 9530476251755,
+    "nextNextGaussian": -0.2547799343536115,
+    "haveNextNextGaussian": true
+  },
+  "inputNodes": 8,
+  "hiddenLayers": 1,
+  "hiddenNodes": 4,
+  "outputNodes": 1,
+  "weights": [
+    {
+      "mat": {
+        "type": "org.ejml.data.DMatrixRMaj",
+        "recognition_number/data": {
+          "data": [
+            -20.412850144251028,
+            -45.55949203739701,
+            23.455127476646183,
+            -18.573149549441144,
+            -42.63350250212849,
+            5.93287165667255,
+            4.946715911697562,
+            -1.5992733307645488,
+            13.2358160381289,
+            -52.61322001449993,
+            20.1795794375857,
+            -43.05919946235116,
+            10.735413702499415,
+            41.0279111598221,
+            9.977617243268975,
+            -4.463000704679488,
+            -16.60779421053509,
+            21.948645544469255,
+            -3.1708085025195483,
+            44.71843819780103,
+            -5.423110906231645,
+            -28.00702338226697,
+            33.65799025727996,
+            -13.24242055084931,
+            4.970292200984005,
+            12.441597735488163,
+            -16.18849671293081,
+            15.2621178474192,
+            -24.909369204212233,
+            -2.6975154071380945,
+            -29.797441163846752,
+            17.215642337351248
+          ],
+          "numRows": 4,
+          "numCols": 8
+        }
+      },
+      "ops": {
+        "type": "org.ejml.simple.ops.SimpleOperations_DDRM",
+        "recognition_number/data": {}
+      }
+    },
+    {
+      "mat": {
+        "type": "org.ejml.data.DMatrixRMaj",
+        "recognition_number/data": {
+          "data": [
+            38.01476658214292,
+            -26.69352548049656,
+            40.52191417415128,
+            8.729757706554164
+          ],
+          "numRows": 1,
+          "numCols": 4
+        }
+      },
+      "ops": {
+        "type": "org.ejml.simple.ops.SimpleOperations_DDRM",
+        "recognition_number/data": {}
+      }
+    }
+  ],
+  "biases": [
+    {
+      "mat": {
+        "type": "org.ejml.data.DMatrixRMaj",
+        "recognition_number/data": {
+          "data": [
+            -2.0687069830396845,
+            -7.533729219062693,
+            -14.240706701281239,
+            -18.751830467087576
+          ],
+          "numRows": 4,
+          "numCols": 1
+        }
+      },
+      "ops": {
+        "type": "org.ejml.simple.ops.SimpleOperations_DDRM",
+        "recognition_number/data": {}
+      }
+    },
+    {
+      "mat": {
+        "type": "org.ejml.data.DMatrixRMaj",
+        "recognition_number/data": {
+          "data": [
+            -17.382025263023046
+          ],
+          "numRows": 1,
+          "numCols": 1
+        }
+      },
+      "ops": {
+        "type": "org.ejml.simple.ops.SimpleOperations_DDRM",
+        "recognition_number/data": {}
+      }
+    }
+  ],
+  "learningRate": 0.1,
+  "activationFunctionKey": "SIGMOID"
+}
