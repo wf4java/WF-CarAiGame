@@ -7,7 +7,7 @@ This project uses maven
 
 # Binds
 
-W - acceleration of learning
+W - acceleration of learning \n
 S - engine slowdowns
 С - saving the best NeuranNetwork
 R - toggle ray render
