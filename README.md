@@ -15,8 +15,6 @@ H - respawn cars <br />
 G - add 180 degrees when spawning <br />
 
 
-
-
-
+# Screen
 
 ![alt text](https://github.com/UmaltIbragimov/AI-car-game-Java-/blob/main/Screen_1.png?raw=true)
