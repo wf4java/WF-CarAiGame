@@ -9,7 +9,7 @@ This project uses maven
 
 W - acceleration of learning <br />
 S - engine slowdowns <br />
-С - saving the best NeuranNetwork <br />
+K - saving the best NeuranNetwork <br />
 R - toggle ray render <br />
 H - respawn cars <br />
 G - add 180 degrees when spawning <br />
