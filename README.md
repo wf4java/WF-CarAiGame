@@ -1,4 +1,4 @@
-# AI-car-game-Java-
+# AI Java car game
 Artificial intelligence learns to drive a car by crashing it. The game is written in java!
 
 The neural network was taken from here - https://github.com/kim-marcel/basic_neural_network
