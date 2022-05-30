@@ -17,8 +17,8 @@ DOWN - Reduces the minimum number to show the connection between neurons <br />
 # Config
 
 There are 2 neural network modes. <br /><br />
-1 - at the output, one neuron, which is responsible for turning, learns very quickly, in 10 cycles, but the machine is always twitching. <br />
-2 - there are 2 neurons at the output, it learns quite slowly, for ~ 10000 cycles, but the machine does not twitch
+1 - At the output, one neuron, which is responsible for turning, learns very quickly, in 10 cycles, but the machine is always twitching. <br />
+2 - There are 2 neurons at the output, it learns quite slowly, for ~10000 cycles, but the machine does not twitch
 
 # Screens
 
