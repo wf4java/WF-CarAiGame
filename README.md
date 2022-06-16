@@ -10,9 +10,12 @@ This project uses maven
 1,2,3,4,0 - speed of learning <br />
 C - saving the best NeuranNetwork <br />
 R - toggle ray render <br />
+Z - toggle game render <br />
 H - respawn cars <br />
 UP - Increases the minimum number to show the connection between neurons <br />
 DOWN - Reduces the minimum number to show the connection between neurons <br />
+
+Mouse pressed and drag - edit road <br />
 
 # Config
 
