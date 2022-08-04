@@ -11,6 +11,7 @@ This project uses maven
 C - saving the best NeuranNetwork <br />
 R - toggle ray render <br />
 Z - toggle game render <br />
+X - smooth lines toggle <br />
 H - respawn cars <br />
 UP - Increases the minimum number to show the connection between neurons <br />
 DOWN - Reduces the minimum number to show the connection between neurons <br />
