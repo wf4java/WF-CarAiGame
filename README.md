@@ -8,7 +8,7 @@ This project uses maven
 # Binds
 
 1,2,3,4,0 - speed of learning <br />
-C - saving the best NeuranNetwork <br />
+C - saving the best NeuralNetwork <br />
 R - toggle ray render <br />
 Z - toggle game render <br />
 X - smooth lines toggle <br />
